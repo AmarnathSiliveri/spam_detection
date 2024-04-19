@@ -48,6 +48,10 @@ Let's say we're trying to decide whether a comment is spam or not. The classifie
 
 > Despite its simplicity, Bernoulli Naive Bayes tends to do a pretty good job, especially when you're dealing with a ton of words—like in big batches of comments.
 
+###
+---
+![OUTPUT](https://github.com/SilverStark18/spam_detection/blob/main/spam_detection_output_image.png)
+
 
 
 
