@@ -50,7 +50,9 @@ Let's say we're trying to decide whether a comment is spam or not. The classifie
 
 ###
 ---
-![OUTPUT](https://github.com/SilverStark18/spam_detection/blob/main/spam_detection_output_image.png)
+![OUTPUT-NOT SPAM](https://github.com/SilverStark18/spam_detection/blob/main/spam_detection_outputnotspam_image.png)
+---
+![OUTPUT- SPAM](https://github.com/SilverStark18/spam_detection/blob/main/spam_detection_outputspam_image.png)
 
 
 
